@@ -108,7 +108,21 @@ section {
        width: 100%;
    }
 /* ============== new section end ============== */
-
+.footer-info{
+  padding: 40px;
+  background-color: #eeeeee;
+}
+.footer-familysite{
+  background: #bdbdbd;
+  padding: 20px;
+}
+.family-site{
+  padding: 10px;
+}
+.sns{
+  padding: 10px;
+}
+/* ============== footer end ============== */
 
 /* ============== media Start ============== */
 @media (min-width: 1024px){
